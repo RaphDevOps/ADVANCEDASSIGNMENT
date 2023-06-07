@@ -1,2 +1,2 @@
 # ADVANCEDASSIGNMENT
-This assignment is to show case my understanding on GitHub
+This assignment is to showcase my understanding on GitHub and master some commands 
